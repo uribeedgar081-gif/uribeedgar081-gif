@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hola, soy Edgar! 👋
+🖥️ Desarrollador web | Javascript, MySQL, Visual Studio Code.
+📍 Tlaquepaque, Jalisco, México
 
+## Proyectos destacados
+## papelería los piwis
+Página web que ayuda a los clientes y empleados con la organización y eficiencia de una papelería.
+[(https://github.com/orlandofierros1824-arch/Paper-System-LP)] | [https://paper-system-lp.onrender.com/]
 <!--
 **uribeedgar081-gif/uribeedgar081-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
